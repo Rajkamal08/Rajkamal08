@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajkamal Mehta</h1>
+<h1 align="center">Hi 👋, I'm Raj kamal Mehta</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | React Native Developer</h3>
 
 <p align="center">
