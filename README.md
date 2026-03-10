@@ -2,44 +2,58 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HELLO%20DEVELOPERS&fontSize=70&fontAlignY=35&animation=twinkling" />
 </div>
 
-### 👋 Hi, I'm Raj Kamal Mehta 
+### 👋 Hi, I'm Raj Kamal Mehta
 
-* 🎓 I'm a Final-year B.Tech Computer Science student passionate about building impactful software.
-* 🔭 I'm currently working on a **Full-Stack Bike Rental Platform** (React Native, Node.js) and a **PPG Signal Quality Assessment System**.
-* 🌱 I'm deeply interested in **Full-Stack Web Development (MERN)**, **Mobile App Dev**, and **Machine Learning**.
-* 🧠 I'm diving into Real-time Biomedical Signal Processing and AI/ML models.
-* 👯 I'm looking to collaborate on scalable software solutions, open-source projects, and Data Science/ML models.
-* ⚡ Fun fact: The term "Machine Learning" was coined in 1959 by Arthur Samuel, an IBM employee and pioneer in computer gaming!
+* [cite_start]🎓 Final-year B.Tech CS student building scalable web and mobile apps. [cite: 4, 5]
+* [cite_start]💻 Currently developing a **Full-Stack Bike Rental Platform** and a **PPG Signal Quality Assessment System**. [cite: 17, 21]
+* [cite_start]🌱 Deep-diving into **Real-time Biomedical Signal Processing** & AI/ML models. [cite: 14, 21]
+* [cite_start]🤝 Looking to collaborate on MERN stack projects, React Native apps, and Data Science models. [cite: 4, 8]
+* ⚡ Fun fact: The first computer bug was an actual real-life moth found trapped in a Harvard Mark II computer in 1947!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPfa/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media1.tenor.com/m/X9xT1mP-4U0AAAAC/anime-coding.gif" width="400" alt="Anime Girl Coding" />
 </div>
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** JavaScript, Python, C++
-* **Frontend:** React.js, HTML, CSS, Redux
-* **Backend:** Node.js, Express.js, REST APIs
-* **Mobile:** React Native, Expo
-* **Database:** MongoDB, MySQL
-* **Tools & ML:** Git, GitHub, Postman, Google Colab, SVM, Random Forest
+### 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iDadw1EQ/giphy.gif" width="600" alt="Circuit API GIF" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 <br/>
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkamal08&show_icons=true&theme=tokyonight" alt="Raj's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkamal08&theme=tokyonight" alt="Raj's GitHub Streak" />
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600" alt="Circuit API Hacker GIF" />
 </div>
 
-### 📫 Let's Connect!
+<br/>
+
+### 🚀 Featured Projects
+
+* [cite_start]🚴 **Bike Rental Platform:** Full-stack app with React Native, Node.js, Stripe payments, and automated KYC. [cite: 17, 20]
+* [cite_start]🫀 **PPG Signal Quality System:** Real-time ML processing (SVM, Random Forest) hitting 89.7% accuracy. [cite: 21]
+* [cite_start]🍔 **Food Delivery App:** MERN stack application with secure payment gateway integration. [cite: 23]
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajkamal08&show_icons=true&theme=radical" alt="Raj's GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/18/72/75/18727572793132cc2ee9ff4c26a6e27b.gif" width="100%" alt="Retro Synthwave GIF" />
+</div>
+
+### 📫 Let's Connect
 
 <div align="center">
   <a href="mailto:mehtarajkamal81@gmail.com">
@@ -48,8 +62,4 @@
   <a href="https://linkedin.com/in/raj-kamal-mehta-105320269">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="Retro Synthwave GIF" />
 </div>
