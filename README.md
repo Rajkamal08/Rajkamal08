@@ -26,13 +26,7 @@ Experienced in MERN stack development, REST APIs, and real-time systems.
 
 ---
 
-## 📊 GitHub Stats
 
-![Rajkamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkamal08&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkamal08&layout=compact&theme=tokyonight)
-
----
 
 ## 🚀 Featured Projects
 
@@ -87,4 +81,6 @@ mehtarajkamal81@gmail.com
 
 ---
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 ⭐ *Always building and learning new technologies*
