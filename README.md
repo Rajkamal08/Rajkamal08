@@ -1,80 +1,56 @@
-<h1 align="center">Hi 👋, I'm Raj kamal Mehta</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | React Native Developer</h3>
+<h1 align="center">Rajkamal Mehta</h1>
 
 <p align="center">
-Final-year B.Tech Computer Science student passionate about building scalable web and mobile applications.  
-Experienced in MERN stack development, REST APIs, and real-time systems.  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Native+Developer" />
+</p>
+
+<p align="center">
+Building web and mobile applications with modern technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+### About
 
-- 🎓 B.Tech CSE Student (Graduating 2026)
-- 💻 Full Stack Developer (MERN Stack)
-- 📱 Mobile App Developer (React Native)
-- 🔬 Worked on real-time biomedical ML systems
-- 🧠 Interested in scalable systems & real-world problem solving
+- B.Tech Computer Science student (2026)
+- Full Stack Developer focused on MERN stack
+- Mobile development using React Native
+- Experience working with Machine Learning systems
+- Interested in building real-world scalable applications
 
 ---
 
-## 🛠 Tech Stack
+### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,c,html,css,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,python,html,css,git,github,vscode" />
 </p>
 
-## 🚀 Featured Projects
+---
 
-### 🚲 Bike Rental Platform
-Full-stack bike rental system built with React Native and Node.js with Stripe payments and KYC verification.
+### Selected Projects
 
-🔗 Repo:  
-https://github.com/Rajkamal08/bike
+**Bike Rental Platform**  
+Full-stack mobile application with payments and fleet management.
+
+**Food Delivery Platform**  
+MERN stack web platform with authentication and order system.
+
+**PPG Signal Quality Assessment**  
+Machine learning system for biomedical signal monitoring.
 
 ---
 
-### 🍔 Food Delivery Platform
-MERN stack web application with authentication, Stripe payment gateway and order management.
-
-🔗 Repo:  
-https://github.com/Rajkamal08/Food-del
-
----
-
-### 📱 PPG Signal Quality Assessment System
-Real-time biomedical signal processing system using SVM & Random Forest models achieving **89.7% accuracy**.
-
-Tech: Python, Machine Learning, React Native
-
----
-
-## 📄 Research Publication
-
-📑 **PPG Signal Quality Assessment & Artifact Detection for Smartphone Monitoring**  
-Published on **TechRxiv (IEEE Supported)**
-
----
-
-## 🏆 Achievements
-
-🏅 IDEA-FIESTA Hackathon – Consolation Prize (Sign Language Converter)  
-🏅 HackIndia – Web3.0 & Blockchain Development  
-🏅 NIT Technocracy Hackathon – Participation
-
----
-
-## 🌐 Connect With Me
+### Connect
 
 LinkedIn  
 https://www.linkedin.com/in/raj-kamal-mehta-105320269
-
-GitHub  
-https://github.com/Rajkamal08
 
 Email  
 mehtarajkamal81@gmail.com
 
 ---
 
-⭐ *Always building and learning new technologies*
+### Contribution Graph
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
