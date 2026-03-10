@@ -1,80 +1,124 @@
-<h1 align="center">Hi 👋, I'm Raj kamal Mehta</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | React Native Developer</h3>
+<h1 align="center">Hi 👋, I'm Rajkamal Mehta</h1>
 
 <p align="center">
-Final-year B.Tech Computer Science student passionate about building scalable web and mobile applications.  
-Experienced in MERN stack development, REST APIs, and real-time systems.  
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Native+Developer;Building+Real+World+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rajkamal08&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech CSE Student (Graduating 2026)
-- 💻 Full Stack Developer (MERN Stack)
-- 📱 Mobile App Developer (React Native)
-- 🔬 Worked on real-time biomedical ML systems
-- 🧠 Interested in scalable systems & real-world problem solving
+🎓 Final-year B.Tech Computer Science student (Graduating 2026)  
+💻 Full Stack Developer specializing in **MERN Stack**  
+📱 Mobile Application Developer using **React Native**  
+🔬 Experience building **real-time biomedical ML systems**  
+🚀 Passionate about building **scalable real-world applications**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,c,html,css,git,github,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,c,html,css,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Rajkamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkamal08&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rajkamal08&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkamal08&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkamal08&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkamal08&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkamal08&theme=react-dark" />
+
+---
+
+# 🌟 Featured Projects
 
 ### 🚲 Bike Rental Platform
-Full-stack bike rental system built with React Native and Node.js with Stripe payments and KYC verification.
+Full-stack bike rental platform built with **React Native + Node.js** including Stripe payments and automated KYC.
 
-🔗 Repo:  
-https://github.com/Rajkamal08/bike
+🔗 https://github.com/Rajkamal08/bike
 
 ---
 
 ### 🍔 Food Delivery Platform
-MERN stack web application with authentication, Stripe payment gateway and order management.
+Full MERN stack application with authentication, order processing and Stripe payment gateway.
 
-🔗 Repo:  
-https://github.com/Rajkamal08/Food-del
+🔗 https://github.com/Rajkamal08/Food-del
 
 ---
 
 ### 📱 PPG Signal Quality Assessment System
-Real-time biomedical signal processing system using SVM & Random Forest models achieving **89.7% accuracy**.
-
-Tech: Python, Machine Learning, React Native
+Machine learning system for biomedical signal monitoring using **SVM & Random Forest** achieving **89.7% accuracy**.
 
 ---
 
-## 📄 Research Publication
+# 📄 Research Publication
 
-📑 **PPG Signal Quality Assessment & Artifact Detection for Smartphone Monitoring**  
-Published on **TechRxiv (IEEE Supported)**
+📑 **PPG Signal Quality Assessment & Artifact Detection for Smartphone Monitoring**
 
----
-
-## 🏆 Achievements
-
-🏅 IDEA-FIESTA Hackathon – Consolation Prize (Sign Language Converter)  
-🏅 HackIndia – Web3.0 & Blockchain Development  
-🏅 NIT Technocracy Hackathon – Participation
+Published on **TechRxiv (IEEE supported)**
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Achievements
+
+🏅 IDEA-FIESTA Hackathon — Consolation Prize (Sign Language Converter)  
+🏅 HackIndia — Web3.0 & Blockchain Development  
+🏅 NIT Technocracy Hackathon — Participation
+
+---
+
+# 🎯 2026 Goals
+
+✔ Contribute to Open Source Projects  
+✔ Build scalable Full Stack Applications  
+✔ Improve System Design Skills  
+✔ Publish more technical research
+
+---
+
+# 🧠 Developer Philosophy
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rajkamal08&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+# 💻 Coding Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 LinkedIn  
 https://www.linkedin.com/in/raj-kamal-mehta-105320269
@@ -87,6 +131,10 @@ mehtarajkamal81@gmail.com
 
 ---
 
-⭐ *Always building and learning new technologies*
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Always building and learning new technologies
