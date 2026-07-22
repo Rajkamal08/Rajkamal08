@@ -71,13 +71,7 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajkamal08&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
----
 
 ## 💼 Featured Projects
 
