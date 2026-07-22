@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Raj%20Kamal%20Mehta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%2F%20Node%20%2F%20React%20Native&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c9a7&height=230&section=header&text=Raj%20Kamal%20Mehta&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=React%20Native%20Developer%20%7C%20MERN%20%7C%20Node.js&descAlignY=52&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN+%2B+React+Native);Building+scalable+web+%26+mobile+apps;Published+IEEE-supported+ML+researcher;Open+to+SDE+%2F+Full-Stack+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=React+Native+%7C+MERN+%7C+Node.js+Developer;Building+scalable+web+%26+mobile+apps;Published+IEEE-supported+ML+researcher;Open+to+SDE+%2F+Full-Stack+opportunities" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://rajkamal08-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C9A7?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/raj-kamal-mehta-105320269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:cheerychuckle07@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ### 👋 Hi, I'm Raj Kamal Mehta
 
@@ -14,7 +20,7 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 
 📍 Raipur, India&nbsp;&nbsp;|&nbsp;&nbsp;📧 cheerychuckle07@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;🟢 **Open to work**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 🚀 About Me
 
@@ -27,7 +33,7 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 - 🎯 Goal: land an SDE / Full-Stack Engineering role where I can ship scalable, real-world products
 - ⚡ Fun fact: I've combined ML and full-stack skills to ship an app that reads soil health cards with AI
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +61,7 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 **Tools & Platforms**
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 📊 GitHub Statistics
 
@@ -69,9 +75,15 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rajkamal08&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 💼 Featured Projects
 
@@ -82,7 +94,7 @@ AI-powered mobile app that scans ICAR Soil Health Cards using Groq Vision OCR an
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rajkamal08/MittiCard) [![Live](https://img.shields.io/badge/Live-FPO_Dashboard-00C9A7?style=flat-square&logo=vercel)](https://mitticard-backend.onrender.com/fpo-dashboard) [![API](https://img.shields.io/badge/Backend-API-2c5364?style=flat-square&logo=render)](https://mitticard-backend.onrender.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ### 🚲 [Bike Rental App – Booking Platform](https://github.com/Rajkamal08/bike-rental-platform)
 Cross-platform mobile app supporting end-to-end booking workflows, secure Stripe payments, and automated KYC via REST APIs. Backend built with JWT authentication and optimized MongoDB schemas, reducing query response time by 30% under concurrent load. *(Deployed — live link coming soon)*
@@ -91,7 +103,7 @@ Cross-platform mobile app supporting end-to-end booking workflows, secure Stripe
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rajkamal08/bike-rental-platform)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ### 🍔 [Food Delivery Platform](https://github.com/Rajkamal08/Food-del)
 Production-ready MERN-stack food delivery platform with JWT authentication, Stripe payment integration, and RESTful APIs supporting complete order lifecycle management. Optimized backend endpoints and MongoDB schemas for high concurrent order volumes.
@@ -100,7 +112,7 @@ Production-ready MERN-stack food delivery platform with JWT authentication, Stri
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rajkamal08/Food-del)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ### 📄 [AI Contract Intelligence & Document Analyzer](https://github.com/Rajkamal08/Ai-contract-intelligence)
 Full-stack Retrieval-Augmented Generation (RAG) platform to automate legal document analysis using vector-based semantic search to extract critical clauses and liabilities. NLP pipeline built with ChromaDB and SentenceTransformers, integrating Llama-3.3 to generate automated risk scores and structured JSON summaries.
@@ -109,7 +121,7 @@ Full-stack Retrieval-Augmented Generation (RAG) platform to automate legal docum
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rajkamal08/Ai-contract-intelligence)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 🏅 Achievements & Certifications
 
@@ -120,7 +132,17 @@ Full-stack Retrieval-Augmented Generation (RAG) platform to automate legal docum
 - 🏆 **Participant:** NIT Technocracy Hackathon (2023)
 - 🏆 **Participant:** R1 Code Fiesta National Hackathon (2024)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Rajkamal08/Rajkamal08/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> ⚙️ **Setup note:** this snake animation eats your contribution graph and needs a one-time GitHub Action in this repo. See the setup snippet at the end of this chat — copy it into `.github/workflows/snake.yml` and it'll auto-generate on every push.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 🤝 Connect With Me
 
@@ -130,6 +152,6 @@ Full-stack Retrieval-Augmented Generation (RAG) platform to automate legal docum
 <a href="mailto:cheerychuckle07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
