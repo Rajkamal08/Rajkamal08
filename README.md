@@ -77,13 +77,6 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajkamal08&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 💼 Featured Projects
 
@@ -134,52 +127,7 @@ Full-stack Retrieval-Augmented Generation (RAG) platform to automate legal docum
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Rajkamal08/Rajkamal08/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-> ⚙️ **Setup note:** this snake eats your contribution graph and needs a one-time GitHub Action. Create a file at `.github/workflows/snake.yml` in this repo with the content below — it'll auto-generate on every push.
-
-<details>
-<summary>📄 <code>.github/workflows/snake.yml</code> (click to expand)</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Rajkamal08
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake SVG to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
