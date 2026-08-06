@@ -61,6 +61,15 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkamal08&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkamal08&theme=tokyo-night&hide_border=true" width="49%"/>
 
+<br/><br/>
+
+<!-- GITHUB SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajkamal08/Rajkamal08/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajkamal08/Rajkamal08/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajkamal08/Rajkamal08/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
@@ -130,9 +139,15 @@ Production-ready MERN-stack food delivery platform with JWT authentication, Stri
 ## 🤝 Connect With Me
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajkamal08&label=Profile%20Views&color=00C9A7&style=flat-square" alt="Raj Kamal Mehta Profile Views" />
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/raj-kamal-mehta-105320269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://rajkamal08-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:cheerychuckle07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
