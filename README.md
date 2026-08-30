@@ -16,7 +16,7 @@
 
 ### 👋 Hi, I'm Raj Kamal Mehta
 
-Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React Native) development, with published IEEE-supported ML research and hands-on experience building scalable, production-ready applications. Currently seeking SDE and Full-Stack roles.
+I love turning ideas into real products — whether that's a mobile app, a web platform, or an AI-powered tool. Currently obsessed with the intersection of AI and Full-Stack development. When I'm not coding, I'm probably reading about something I want to build next.
 
 📍 Raipur, India&nbsp;&nbsp;|&nbsp;&nbsp;📧 cheerychuckle07@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;🟢 **Open to work**
 
