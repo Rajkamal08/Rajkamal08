@@ -25,13 +25,11 @@ Recent B.Tech CSE graduate specializing in Full-Stack (MERN) and Mobile (React N
 ## 🚀 About Me
 
 - 💻 I build cross-platform mobile apps (React Native) and full-stack web apps (React.js + Node.js)
-- 🔭 Recently interned as a Mobile & Web Development Intern @ AMSN Syntax IT Solution Pvt. Ltd.
-- 🧠 Previously worked as an ML & Deep Learning Trainee @ IIIT Naya Raipur — built a real-time PPG signal quality system (89.7% accuracy)
-- 📄 Co-authored an IEEE-supported publication on TechRxiv (2025)
-- 🎓 B.Tech in Computer Science and Engineering, Krishna Vikas Institute of Technology (2022–2026) — CGPA 8.1/10
-- 🌱 Actively exploring AI-integrated full-stack products (RAG pipelines, OCR, LLM-backed features)
-- 🎯 Goal: land an SDE / Full-Stack Engineering role where I can ship scalable, real-world products
-- ⚡ Fun fact: I've combined ML and full-stack skills to ship an app that reads soil health cards with AI
+- 🤖 Building AI-powered applications with  OCR, RAG & LLMs.
+- 🚀 Turning AI ideas into complete, real-world products — from backend APIs to mobile interfaces.
+- 🎯 Exploring the future of **AI × Full-Stack Development**.
+
+> ⚡ **AI gives the idea. Full-Stack makes it real.** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
