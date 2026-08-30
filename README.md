@@ -18,8 +18,6 @@
 
 I love turning ideas into real products — whether that's a mobile app, a web platform, or an AI-powered tool. Currently obsessed with the intersection of AI and Full-Stack development. When I'm not coding, I'm probably reading about something I want to build next.
 
-📍 Raipur, India&nbsp;&nbsp;|&nbsp;&nbsp;📧 cheerychuckle07@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;🟢 **Open to work**
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9a7&height=3" width="100%"/>
 
 ## 🚀 About Me
