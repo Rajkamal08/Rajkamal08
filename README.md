@@ -24,7 +24,7 @@ I love turning ideas into real products — whether that's a mobile app, a web p
 
 ## 🚀 About Me
 
--    I build cross-platform mobile apps (React Native) and full-stack web apps (React.js + Node.js)
+- 💻 I build cross-platform mobile apps (React Native) and full-stack web apps (React.js + Node.js)
 - 🤖 I integrate AI tools like Groq, OCR & RAG into real-world products — not just demos or notebooks
 - 🚀 From idea to deployment: backend APIs → databases → mobile/web interfaces — I build across the full stack
 - 🧩 Exploring the intersection of AI and scalable product engineering
