@@ -24,11 +24,11 @@ I love turning ideas into real products — whether that's a mobile app, a web p
 
 ## 🚀 About Me
 
-- 🔭 **Currently building:** MittiCard — an AI app helping farmers understand their soil health reports
-- 🌱 **Currently learning:** LLM fine-tuning & advanced RAG pipelines
-- 🤖 **Interested in:** AI × Mobile — making powerful AI accessible on everyday devices
-- 💬 **Ask me about:** React Native, Node.js, or anything AI/ML
-- ⚡ **Fun fact:** I published IEEE-supported ML research before landing my first dev job
+-    I build cross-platform mobile apps (React Native) and full-stack web apps (React.js + Node.js)
+- 🤖 I integrate AI tools like Groq, OCR & RAG into real-world products — not just demos or notebooks
+- 🚀 From idea to deployment: backend APIs → databases → mobile/web interfaces — I build across the full stack
+- 🧩 Exploring the intersection of AI and scalable product engineering
+- ⚡ Fun fact: I built an app that reads government soil health cards with AI — so farmers know what to grow 🌱
 
 > ⚡ **AI gives the idea. Full-Stack makes it real.** 🚀
 
